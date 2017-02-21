@@ -38,7 +38,3 @@
 
 ##### Pulling remote changes into your local repo
         git pull origin <branch name>
-
-
-##### Moving files while preserving git history
-		git mv <source> <destination>
